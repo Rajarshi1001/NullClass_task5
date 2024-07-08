@@ -26,6 +26,12 @@ pip install --upgrade pip
 pip install "tensorflow<2.11" 
 ```
 
+5. Install speech librairies 
+```bash
+pip install pytz SpeechRecognition pyaudio
+pip install numpy
+```
+
 The same environment `nullclass` can be used for running notebooks for other tasks as well. Now run the notebook named `task5.ipynb`.
 
 
