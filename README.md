@@ -1,0 +1,1 @@
+# NullClass_task5
