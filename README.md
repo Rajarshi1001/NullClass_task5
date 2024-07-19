@@ -26,17 +26,10 @@ pip install --upgrade pip
 pip install "tensorflow<2.11" 
 ```
 
-5. Install speech librairies 
+The same environment `nullclass` can be used for running notebooks for other tasks as well. Now run the notebook named `task5.ipynb`. The GUI for the task 5 is implemented in the file named `gui_task5.py`. 
+
+Run the following command to launch the GUI:
 ```bash
-pip install pytz SpeechRecognition pyaudio
-pip install numpy
+python gui_task5.py
 ```
 
-The same environment `nullclass` can be used for running notebooks for other tasks as well. Now run the notebook named `task5.ipynb`.
-
-
-The python GUI has been implemented in the file `gui.py` using tkinter and other libraries. In order to run te GUI. 
-
-```bash
-python gui.py 
-```
